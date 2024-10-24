@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\bin\Debug\飞行棋简化版本.exe.config
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\bin\Debug\飞行棋简化版本.exe
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\bin\Debug\飞行棋简化版本.pdb
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\obj\Debug\飞行棋简化版本.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\obj\Debug\飞行棋简化版本.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\obj\Debug\飞行棋简化版本.exe
+C:\Users\asus\source\repos\飞行棋简化版本\飞行棋简化版本\obj\Debug\飞行棋简化版本.pdb
